@@ -86,13 +86,13 @@ Allocated Hours = (Priority / Total Priority) × Total Study Hours
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 app.py  → Complete single-file application
 
----
 
-## ▶️ How to Run
+
+##  How to Run
 
 1. Install dependencies:
    pip install flask pandas
@@ -103,9 +103,9 @@ app.py  → Complete single-file application
 3. Open in browser:
    http://127.0.0.1:5000/
 
----
 
-## 🎯 How It Works
+
+##  How It Works
 
 1. Enter:
 
@@ -128,7 +128,7 @@ app.py  → Complete single-file application
 
 
 
- 📊 Output
+  Output
 
 * Day-wise study schedule
 * Hours assigned per subject
@@ -137,7 +137,7 @@ app.py  → Complete single-file application
 
 
 
- ⚠️ Limitations
+ Limitations
 
 * Rule-based model (not trained ML model)
 * No database or user login
@@ -145,7 +145,7 @@ app.py  → Complete single-file application
 
 
 
-🔮 Future Improvements
+ Future Improvements
 
 * Real Machine Learning model
 * User authentication system
